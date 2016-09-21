@@ -1,0 +1,43 @@
+Avr_meta is a C++ template library for embedded software development, primarily for AVR microcontroller.
+
+    Content
+avr_adc                           AVR ADC – Analog to Digital Converter
+avr_debug                         AVR_DEBUG template
+avr_interrupt/ext_int_control     AVR External Interrupts  control
+avr_interrupt/pin_ch_int_control  AVR Pin Change Interrupt control
+   
+avr_misc                          miscellaneous functions
+avr_pin                           AVR Pin control
+avr_power_mgmt                    AVR Power Management
+avr_spi                           AVR SPI – Serial Peripheral Interface
+avr_twi                           AVR 2-wire Serial Interface
+avr_usart                         AVR Universal Synchronous and Asynchronous serial Receiver and Transmitter
+
+container/bit_field               C++ template bit field implementation
+container/circular_buffer         Circular buffer implementation
+
+event_driven                      Classes for use in event-driven software
+
+meta                              Template metafunctions
+misc                              Miscellaneous
+
+state/led_blinker                 Led blinked mode (state) indicator
+state/state_machine               State machine implementation for use in embedded software
+state/switch_case                 Switch case statement template (used by state machine)
+
+
+
+    Contacts
+"Axiom" Ltd website : smart.axiom24.ru
+              email : smart@axiom24.ru
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
