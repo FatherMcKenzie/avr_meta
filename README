@@ -10,8 +10,8 @@ avr_misc                          miscellaneous functions
 avr_pin                           AVR Pin control
 avr_power_mgmt                    AVR Power Management
 avr_spi                           AVR SPI – Serial Peripheral Interface
-avr_twi                           AVR 2-wire Serial Interface
-avr_usart                         AVR Universal Synchronous and Asynchronous serial Receiver and Transmitter
+avr_twi                           AVR 2-wire Serial Interface (master operations only)
+avr_usart                         AVR Universal Synchronous and Asynchronous serial Receiver and Transmitter (async operations only)
 
 container/bit_field               C++ template bit field implementation
 container/circular_buffer         Circular buffer implementation
